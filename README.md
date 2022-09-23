@@ -1,0 +1,2 @@
+# ideavim
+keymap for ideavim
